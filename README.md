@@ -33,8 +33,9 @@ This project beautifully demonstrates the power of **2D transformations** and **
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://imgur.com/zEXAMPLE.png" width="700" alt="Truck Race Screenshot"/>
+  <img src="https://github.com/user-attachments/assets/039375ab-d79c-4056-8a20-1707e565a213" width="700" alt="Truck Race Screenshot"/>
 </p>
+
 
 > *Note: Replace the preview image link above with your actual gameplay screenshot or GIF.*
 
